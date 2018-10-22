@@ -10,8 +10,13 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            int i;
             Console.WriteLine("Welcome to DevOps Session");
             Console.ReadKey();
+            if (i > 1)
+            {
+
+            }
         }
     }
 }
