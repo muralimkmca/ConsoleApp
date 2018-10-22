@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to DevOps");
+            Console.WriteLine("Welcome to DevOps Session");
             Console.ReadKey();
         }
     }
